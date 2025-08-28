@@ -1,3 +1,4 @@
+name: "Build across platforms and Deploy"
 on:
     push:
         branches:
